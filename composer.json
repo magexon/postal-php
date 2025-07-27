@@ -1,5 +1,5 @@
 {
-    "name": "postal/postal",
+    "name": "magexon/postal",
     "description": "Postal for PHP library.",
     "keywords": ["postal", "mail"],
     "license": "MIT",
@@ -20,7 +20,7 @@
     ],
     "type": "library",
     "require": {
-        "php": "^7.4 || ^8.0",
+        "php": "~7.4.0 || ~8.0.0 || ~8.1.0||~8.2.0||~8.3.0||~8.4.0",
         "guzzlehttp/guzzle": "^6 || ^7"
     },
     "autoload": {
